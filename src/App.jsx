@@ -1,15 +1,14 @@
-import { Router } from 'react-router-dom';
 import './App.css';
 import Counter from './components/Counter';
 import GHBadge from './components/GHBadge';
 import Parent from './components/Parent';
 import Toggle from './components/Toggle';
 import logo from './logo.svg';
-import { Route,BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 export default function App() {
   
   return (
-    <Router basename='/react-sample-cicd'>
+    <Router basename='/'>
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
