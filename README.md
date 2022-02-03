@@ -1,8 +1,8 @@
 # React Quickstart ⚛️ 📦
 > Starter template for a React app - including docs, CI, and hosting
 
-[![GH Pages Deploy](https://github.com/Samuelrajasingh/react-sample-cicd/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/Samuelrajasingh/react-sample-cicd/actions?query=workflow:"GH+Pages+Deploy")
-[![GitHub tag](https://img.shields.io/github/tag/Samuelrajasingh/react-sample-cicd)](https://github.com/Samuelrajasingh/react-sample-cicd/tags/)
+[![GH Pages Deploy](https://github.com/Samuelrajasingh/react-sample-cicd/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/samuelrajasingh/react-sample-cicd/actions?query=workflow:"GH+Pages+Deploy")
+[![GitHub tag](https://img.shields.io/github/tag/Samuelrajasingh/react-sample-cicd)](https://github.com/samuelrajasingh/react-sample-cicd/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to License section")
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
@@ -11,7 +11,7 @@
 
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/react-quickstart/" title="Go to demo app">
+    <a href="https://samuelrajasingh.github.io/react-quickstart/" title="Go to demo app">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
             alt="node icon"
             title="Node.js"
@@ -28,14 +28,14 @@
 
 <div align="center">
 
-<a href="https://michaelcurrin.github.io/react-quickstart/">
+<a href="https://samuelrajasingh.github.io/react-quickstart/">
     <img src="/sample.png" alt="Sample screenshot of React site" title="Go to demo site" width="500" />
 </a>
 
 <br/>
 <br/>
 
-[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
+[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://samuelrajasingh.github.io/react-quickstart/)
 
 </div>
 
@@ -50,7 +50,7 @@ Use this project as a template:
 
 </div>
 
-If you need something more minimal, see this [Minimal](https://michaelcurrin.github.io/code-cookbook/recipes/javascript/packages/react/minimal.html) app recipe.
+If you need something more minimal, see this [Minimal](https://samuelrajasingh.github.io/code-cookbook/recipes/javascript/packages/react/minimal.html) app recipe.
 
 
 ## Documentation

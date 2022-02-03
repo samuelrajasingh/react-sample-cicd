@@ -2,7 +2,7 @@
 
 See the [React][] section of my Dev Resources project.
 
-[React]: https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/react/
+[React]: https://samuelrajasingh.github.io/dev-resources/resources/javascript/packages/react/
 
 An overview of resources:
 

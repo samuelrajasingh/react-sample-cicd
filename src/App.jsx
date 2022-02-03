@@ -5,13 +5,11 @@ import GHBadge from './components/GHBadge';
 import Parent from './components/Parent';
 import Toggle from './components/Toggle';
 import logo from './logo.svg';
-
+import { Route,BrowserRouter as Router } from 'react-router-dom';
 export default function App() {
-  <Router basename="/react-sample-cicd"> //add basename
-      
-  </Router>
+  
   return (
-    
+    <Router basename='/react-sample-cicd'>
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -29,6 +27,7 @@ export default function App() {
 
         <Parent />
       </main>
-    </div>
+      </div>
+      </Router>
   );
 }
