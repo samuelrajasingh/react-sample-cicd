@@ -1,13 +1,13 @@
 # React Quickstart ⚛️ 📦
 > Starter template for a React app - including docs, CI, and hosting
 
-[![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions?query=workflow:"GH+Pages+Deploy")
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-quickstart/tags/)
+[![GH Pages Deploy](https://github.com/Samuelrajasingh/react-sample-cicd/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/Samuelrajasingh/react-sample-cicd/actions?query=workflow:"GH+Pages+Deploy")
+[![GitHub tag](https://img.shields.io/github/tag/Samuelrajasingh/react-sample-cicd)](https://github.com/Samuelrajasingh/react-sample-cicd/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to License section")
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Made with Yarn](https://img.shields.io/badge/Yarn->=1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
-[![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
+[![Made with React](https://img.shields.io/github/package-json/dependency-version/Samuelrajasingh/react-sample-cicd/react?logo=react)](https://www.npmjs.com/package/react)
 
 
 <div align="center">
@@ -46,7 +46,7 @@ Use this project as a template:
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate "Use this template")
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/Samuelrajasingh/react-sample-cicd/generate "Use this template")
 
 </div>
 

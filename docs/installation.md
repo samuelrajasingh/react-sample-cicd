@@ -15,7 +15,7 @@ Choose one of these:
 Either use this repo directly. Or click "Use this template" at the top of the GitHub repo page, then use your repo's URL below instead.
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/react-quickstart.git
+$ git clone git@github.com:Samuelrajasingh/react-sample-cicd.git
 $ cd react-quickstart
 ```
 
