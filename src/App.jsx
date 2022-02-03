@@ -14,7 +14,7 @@ export default function App() {
         <h1>React Quickstart</h1>
         <p>A template project deployed to GitHub Pages</p>
 
-        <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
+        <GHBadge username="samuelrajasingh" repoName="react-sample-cicd" />
       </header>
 
       <main>
